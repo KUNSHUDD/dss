@@ -1,1 +1,1 @@
-{user:12123sdwewe,password:1111111111ed,ban:0,sub:8},{user:XIAOSU,password:h5201989,ban:0,sub:0},{user:dingge66,password:Qwert67890,ban:0,sub:0},{user:synb917813,password:aaBB1979,ban:0,sub:0}
+{user:12123sdwewe,password:1111111111ed,ban:0,sub:7},{user:XIAOSU,password:h5201989,ban:0,sub:0},{user:dingge66,password:Qwert67890,ban:0,sub:0},{user:synb917813,password:aaBB1979,ban:0,sub:0}
