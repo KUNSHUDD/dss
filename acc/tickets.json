@@ -44,10 +44,16 @@
         "message": "FUK21321321",
         "timestamp": "2026-01-02T11:30:18.838Z",
         "type": "user"
+      },
+      {
+        "sender": "admin",
+        "message": "SB",
+        "timestamp": "2026-01-02T11:48:15.252Z",
+        "type": "admin"
       }
     ],
-    "status": "open",
+    "status": "pending",
     "createdAt": "2026-01-02T11:30:18.838Z",
-    "updatedAt": "2026-01-02T11:30:18.838Z"
+    "updatedAt": "2026-01-02T11:48:15.252Z"
   }
 }
