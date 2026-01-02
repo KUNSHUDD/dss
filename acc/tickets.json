@@ -59,18 +59,24 @@
   "T1767354769092q3tx1sywe": {
     "id": "T1767354769092q3tx1sywe",
     "username": "synb917813",
-    "title": "小苏没妈666小苏没妈666小苏没妈666",
+    "title": "å°èæ²¡å¦666å°èæ²¡å¦666å°èæ²¡å¦666",
     "category": "technical",
     "messages": [
       {
         "sender": "synb917813",
-        "message": "小苏没妈666小苏没妈666小苏没妈666",
+        "message": "å°èæ²¡å¦666å°èæ²¡å¦666å°èæ²¡å¦666",
         "timestamp": "2026-01-02T11:52:49.092Z",
         "type": "user"
+      },
+      {
+        "sender": "admin",
+        "message": "SB",
+        "timestamp": "2026-01-02T11:52:59.939Z",
+        "type": "admin"
       }
     ],
-    "status": "open",
+    "status": "pending",
     "createdAt": "2026-01-02T11:52:49.092Z",
-    "updatedAt": "2026-01-02T11:52:49.092Z"
+    "updatedAt": "2026-01-02T11:52:59.939Z"
   }
 }
