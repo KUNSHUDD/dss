@@ -32,5 +32,22 @@
     "status": "closed",
     "createdAt": "2026-01-02T10:46:57.753Z",
     "updatedAt": "2026-01-02T10:47:17.366Z"
+  },
+  "T1767353418838l2mdnhiff": {
+    "id": "T1767353418838l2mdnhiff",
+    "username": "XIAOSU",
+    "title": "SB123213",
+    "category": "billing",
+    "messages": [
+      {
+        "sender": "XIAOSU",
+        "message": "FUK21321321",
+        "timestamp": "2026-01-02T11:30:18.838Z",
+        "type": "user"
+      }
+    ],
+    "status": "open",
+    "createdAt": "2026-01-02T11:30:18.838Z",
+    "updatedAt": "2026-01-02T11:30:18.838Z"
   }
 }
