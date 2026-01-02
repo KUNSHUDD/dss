@@ -1,0 +1,14 @@
+{
+  "12123sdwewe": [
+    {
+      "product": "cs2",
+      "startedAt": "2026-01-02T10:48:10.408Z",
+      "expiresAt": "2026-02-01T10:48:10.408Z",
+      "duration": 30,
+      "paymentMethod": "213",
+      "amount": 321,
+      "active": true,
+      "suspended": false
+    }
+  ]
+}
