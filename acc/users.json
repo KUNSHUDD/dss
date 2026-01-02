@@ -20,7 +20,12 @@
     "email": "3539661801@qq.com",
     "createdAt": "2026-01-02T11:34:36.713Z",
     "lastLogin": "2026-01-02T11:34:36.713Z",
-    "inviteCode": "NLmjwq9b2xm8a0"
+    "inviteCode": "NLmjwq9b2xm8a0",
+    "subscription": {
+      "active": true,
+      "product": "cs2",
+      "expiresAt": "2026-02-01T16:39:02.266Z"
+    }
   },
   "synb917813": {
     "email": "3259873047@qq.com",
