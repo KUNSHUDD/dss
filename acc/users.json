@@ -65,6 +65,11 @@
     "email": "3872186991@qq.com",
     "createdAt": "2026-01-03T03:46:47.282Z",
     "lastLogin": "2026-01-03T03:49:16.450Z",
-    "inviteCode": "NLmjwq9b2x03k8"
+    "inviteCode": "NLmjwq9b2x03k8",
+    "subscription": {
+      "active": true,
+      "product": "cs2",
+      "expiresAt": "2026-02-02T03:52:22.457Z"
+    }
   }
 }
