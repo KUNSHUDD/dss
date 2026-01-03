@@ -74,5 +74,11 @@
       "product": "cs2",
       "expiresAt": "2026-02-02T03:52:22.457Z"
     }
+  },
+  "XIAOSU1337": {
+    "email": "1075839754@qq.com",
+    "createdAt": "2026-01-03T12:03:09.172Z",
+    "lastLogin": "2026-01-03T12:03:09.173Z",
+    "inviteCode": "NLmjwq9b2xyck5"
   }
 }
