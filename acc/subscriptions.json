@@ -86,5 +86,17 @@
       "active": true,
       "suspended": false
     }
+  ],
+  "nrhfji": [
+    {
+      "product": "cs2",
+      "startedAt": "2026-01-03T03:52:22.457Z",
+      "expiresAt": "2026-02-02T03:52:22.457Z",
+      "duration": 30,
+      "paymentMethod": "paypal",
+      "amount": 10,
+      "active": true,
+      "suspended": false
+    }
   ]
 }
