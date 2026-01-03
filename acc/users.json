@@ -54,5 +54,11 @@
       "product": "cs2",
       "expiresAt": "2026-02-01T16:41:03.664Z"
     }
+  },
+  "mita": {
+    "email": "3752605861@qq.com",
+    "createdAt": "2026-01-03T02:39:57.461Z",
+    "lastLogin": "2026-01-03T02:39:57.461Z",
+    "inviteCode": "NLmjwq9b2xu9fq"
   }
 }
