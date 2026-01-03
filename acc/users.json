@@ -85,6 +85,11 @@
     "email": "1558109685@qq.com",
     "createdAt": "2026-01-03T12:22:39.134Z",
     "lastLogin": "2026-01-03T12:22:39.134Z",
-    "inviteCode": "NLXIAOSU_qfe8epzx"
+    "inviteCode": "NLXIAOSU_qfe8epzx",
+    "subscription": {
+      "active": true,
+      "product": "cs2",
+      "expiresAt": "2026-02-02T12:23:32.615Z"
+    }
   }
 }
