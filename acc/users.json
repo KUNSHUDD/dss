@@ -30,7 +30,10 @@
       "active": true,
       "product": "cs2",
       "expiresAt": "2026-02-01T16:39:04.944Z"
-    }
+    },
+    "banned": true,
+    "banDate": "2026-01-03T09:49:21.193Z",
+    "bannedBy": "admin"
   },
   "synb917813": {
     "email": "3259873047@qq.com",
