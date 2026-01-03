@@ -115,6 +115,16 @@
       "amount": 210,
       "active": true,
       "suspended": false
+    },
+    {
+      "product": "cs2",
+      "startedAt": "2026-01-03T07:21:41.075Z",
+      "expiresAt": "2026-02-02T07:21:41.075Z",
+      "duration": 30,
+      "paymentMethod": "1",
+      "amount": 10,
+      "active": true,
+      "suspended": false
     }
   ],
   "nrhfji": [
