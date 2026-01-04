@@ -96,6 +96,11 @@
     "email": "hua23@qq.com",
     "createdAt": "2026-01-04T01:50:37.498Z",
     "lastLogin": "2026-01-04T01:50:37.498Z",
-    "inviteCode": "NLmjwq9b2x077o"
+    "inviteCode": "NLmjwq9b2x077o",
+    "subscription": {
+      "active": true,
+      "product": "csgo",
+      "expiresAt": "2027-01-04T01:52:05.219Z"
+    }
   }
 }
