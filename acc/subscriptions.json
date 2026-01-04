@@ -160,5 +160,17 @@
       "active": true,
       "suspended": false
     }
+  ],
+  "hua123123": [
+    {
+      "product": "csgo",
+      "startedAt": "2026-01-04T01:52:05.219Z",
+      "expiresAt": "2027-01-04T01:52:05.219Z",
+      "duration": 365,
+      "paymentMethod": "123",
+      "amount": 132,
+      "active": true,
+      "suspended": false
+    }
   ]
 }
