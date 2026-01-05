@@ -19,7 +19,10 @@
       "active": true,
       "product": "cs2",
       "expiresAt": "2026-02-02T07:21:41.075Z"
-    }
+    },
+    "banned": true,
+    "bannedAt": "2026-01-05T11:59:34.335Z",
+    "bannedBy": "admin"
   },
   "dingge66": {
     "email": "3539661801@qq.com",
