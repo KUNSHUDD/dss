@@ -1,1 +1,1 @@
-{user:XIAOSU,password:h5201989,ban:1,perm:users},{user:XIAOSU1337,password:1,ban:0,perm:users,invites,tickets,subscriptions,reports}
+{user:XIAOSU,password:h5201989,ban:1,perm:users},{user:XIAOSU1337,password:1,ban:0,perm:users,perm:invites,perm:tickets,perm:subscriptions,perm:reports}
