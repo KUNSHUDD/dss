@@ -1,46 +1,4 @@
 {
-  "12123sdwewe": [
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-02T10:48:10.408Z",
-      "expiresAt": "2026-02-01T10:48:10.408Z",
-      "duration": 30,
-      "paymentMethod": "213",
-      "amount": 321,
-      "active": true,
-      "suspended": false
-    },
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-02T10:48:15.177Z",
-      "expiresAt": "2026-02-01T10:48:15.177Z",
-      "duration": 30,
-      "paymentMethod": "213",
-      "amount": 321,
-      "active": true,
-      "suspended": false
-    },
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-02T10:49:09.807Z",
-      "expiresAt": "2026-02-01T10:49:09.807Z",
-      "duration": 30,
-      "paymentMethod": "123",
-      "amount": 123,
-      "active": true,
-      "suspended": false
-    },
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-03T07:22:54.121Z",
-      "expiresAt": "2027-01-03T07:22:54.121Z",
-      "duration": 365,
-      "paymentMethod": "123",
-      "amount": 10,
-      "active": true,
-      "suspended": false
-    }
-  ],
   "dingge66": [
     {
       "product": "cs2",
