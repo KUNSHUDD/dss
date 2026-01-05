@@ -1,26 +1,4 @@
 {
-  "dingge66": [
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-02T16:39:02.266Z",
-      "expiresAt": "2026-02-01T16:39:02.266Z",
-      "duration": 30,
-      "paymentMethod": "paypal",
-      "amount": 210,
-      "active": true,
-      "suspended": false
-    },
-    {
-      "product": "cs2",
-      "startedAt": "2026-01-02T16:39:04.944Z",
-      "expiresAt": "2026-02-01T16:39:04.944Z",
-      "duration": 30,
-      "paymentMethod": "paypal",
-      "amount": 210,
-      "active": true,
-      "suspended": false
-    }
-  ],
   "shuicao1337": [
     {
       "product": "cs2",
