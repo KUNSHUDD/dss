@@ -181,6 +181,16 @@
       "amount": 123,
       "active": true,
       "suspended": false
+    },
+    {
+      "product": "cs2",
+      "startedAt": "2026-01-05T12:02:08.991Z",
+      "expiresAt": "2026-02-04T12:02:08.991Z",
+      "duration": 30,
+      "paymentMethod": "123",
+      "amount": 10,
+      "active": true,
+      "suspended": false
     }
   ]
 }
