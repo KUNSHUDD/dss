@@ -14,7 +14,12 @@
     "email": "1075839754@qq.com",
     "createdAt": "2026-01-06T03:16:31.322Z",
     "lastLogin": "2026-01-07T04:04:09.619Z",
-    "inviteCode": "NLmjwzfoxbv5ky"
+    "inviteCode": "NLmjwzfoxbv5ky",
+    "subscription": {
+      "active": true,
+      "product": "cs2",
+      "expiresAt": "2026-02-08T10:15:30.942Z"
+    }
   },
   "dingge66": {
     "email": "3539661801@qq.com",
