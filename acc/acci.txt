@@ -1,1 +1,1 @@
-{user:XIAOSU,password:h5201989,ban:0,sub:0}
+{"user":"123","password":"123","email":"123","game":"","money":"0","banned":"false"}
