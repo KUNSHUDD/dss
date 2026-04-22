@@ -1,1 +1,1 @@
-{user:XIAOSU,password:h5201989,ban:1,perm:users},{user:FUCKYOU,password:FUCKYOU,ban:0,perm:invites,perm:subscriptions}
+{user:FUCKYOU,password:FUCKYOU,ban:0,perm:invites,perm:subscriptions}
