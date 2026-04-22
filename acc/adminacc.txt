@@ -1,1 +1,0 @@
-{user:FUCKYOU,password:FUCKYOU,ban:0,perm:invites,perm:subscriptions}
